@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Web Development<br><br>📝 I regularly write articles on https://searchmaro.in/<br><br>💬 Ask me about c , C++ , Python , Java<br><br>📫 How to reach me pawan@searchmaro.in
+🌱 I’m currently learning Web Development<br><br>📝 I regularly write articles on https://searchmaro.in/<br><br>💬 Ask me about C , C++ , Python , Java<br><br>📫 How to reach me pawan@searchmaro.in
 
 
 ## 🌐 Socials:
